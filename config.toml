@@ -10,7 +10,7 @@ integrations-version = "v1.9.0-dev.4"
 [YouTube-Extended]
 app-name = "YouTube"
 rv-brand = "ReVanced Extended"
-build-mode = "module"
+build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Custom branding heading' 'Custom package name'"
 
